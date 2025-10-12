@@ -1,0 +1,17 @@
+# 内容：强制代理
+# 域名关键字匹配
+#DOMAIN-KEYWORD,openai
+#DOMAIN-KEYWORD,anthropic
+#DOMAIN-KEYWORD,Claude
+# 域名后缀匹配
+DOMAIN-SUFFIX,cilisousuo.com
+DOMAIN-SUFFIX,kdforums.com
+DOMAIN-SUFFIX,keeflys.com
+DOMAIN-SUFFIX,note.com
+DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,x1080x.com
+# 端口匹配
+DST-PORT,6878
+DST-PORT,8621
+SRC-PORT,6878
+SRC-PORT,8621
