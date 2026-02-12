@@ -3,6 +3,7 @@
 #DOMAIN-KEYWORD,openai
 #DOMAIN-KEYWORD,anthropic
 #DOMAIN-KEYWORD,Claude
+#DOMAIN-KEYWORD,flyintpro
 # 域名后缀匹配
 DOMAIN-SUFFIX,archive.neon.kde.org
 DOMAIN-SUFFIX,cilisousuo.com
