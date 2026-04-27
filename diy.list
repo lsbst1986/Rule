@@ -4,23 +4,26 @@
 #DOMAIN-KEYWORD,anthropic
 #DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
+
 DOMAIN-SUFFIX,archive.neon.kde.org
+DOMAIN-SUFFIX,auth.docker.io
 DOMAIN-SUFFIX,cilisousuo.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,kdforums.com
 DOMAIN-SUFFIX,keeflys.com
 DOMAIN-SUFFIX,note.com
+DOMAIN-SUFFIX,production.cloudflare.docker.com
+DOMAIN-SUFFIX,sehuatang.net
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,quay.io
 DOMAIN-SUFFIX,realdollonline.com
+DOMAIN-SUFFIX,registry-1.docker.io
 DOMAIN-SUFFIX,tu.ymawv.la
 DOMAIN-SUFFIX,x1080x.com
 DOMAIN-SUFFIX,x999x.me
-DOMAIN-SUFFIX,registry-1.docker.io
-DOMAIN-SUFFIX,auth.docker.io
-DOMAIN-SUFFIX,production.cloudflare.docker.com
-DOMAIN-SUFFIX,docker.io
-DOMAIN-SUFFIX,quay.io
-DOMAIN-SUFFIX,ghcr.io
-DOMAIN-SUFFIX,cloudfront.net
+
 # 端口匹配
 DST-PORT,6878
 DST-PORT,8621
